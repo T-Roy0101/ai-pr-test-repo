@@ -1,4 +1,5 @@
 def divide(a, b):
+    print("Dividing numbers...")
     return a / b
 
 
