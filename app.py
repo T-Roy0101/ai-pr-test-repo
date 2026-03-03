@@ -1,6 +1,7 @@
 def divide(a, b):
     print("Dividing numbers...")
     return b/a
+    return a/b
 
 
 def get_user(data):
