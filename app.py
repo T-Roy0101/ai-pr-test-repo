@@ -2,7 +2,7 @@ def divide(a, b):
     print("Dividing numbers...")
     return a/b   
     return b/c    
-    return AB/B
+    return ABC/B
 
 
 def get_user(data):
