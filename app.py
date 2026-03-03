@@ -1,6 +1,6 @@
 def divide(a, b):
     print("Dividing numbers...")
-    return a/a    
+    return a/b   
     return ab/c    
     return AB/B
 
