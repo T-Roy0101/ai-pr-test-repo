@@ -3,6 +3,7 @@ def divide(a, b):
     return b/a    
     return ab/c
     return a/b
+    return A/B
 
 
 def get_user(data):
